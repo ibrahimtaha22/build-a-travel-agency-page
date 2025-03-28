@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset ="UTF-8">
+  <title>Travel Agency Page</title>
+  <meta name ="description" content = "Discover the world with Alia Travel! ✈️🌍 From dreamy getaways to adventure-packed tours, we create unforgettable travel experiences. Book your journey today!">
+</head>
+<body>
+  <h1>Explore the Best Travel Destinations for 2024</h1>
+  <p>
+    Welcome to Alia Travel, your gateway to unforgettable adventures! 🌍✈️ We specialize in creating tailor-made travel experiences, from luxurious beach getaways to thrilling city tours and cultural explorations. Whether you're planning a family vacation, a romantic escape, or a business trip, we handle every detail to ensure a seamless journey. Let us turn your travel dreams into reality – book your next adventure with us today!
+    </p>
+  <h2>Packages</h2>
+<p>
+  Explore our diverse range of travel packages tailored for every kind of traveler! From romantic honeymoon escapes and fun-filled family vacations to adventure-packed tours and luxury getaways, we have something for everyone. Whether you're seeking relaxation, exploration, or a mix of both, our carefully curated packages offer the perfect balance of comfort and excitement. Choose your ideal travel experience and start your journey with us today!
+  </p>
+  <ul>
+    <li><a href ="https://www.freecodecamp.org/learn" target ="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target ="_blank">Private Tours</a></li>
+  </ul>
+<h2>Top Itineraries</h2>
+<figure>
+  <a href ="https://www.freecodecamp.org/learn"target ="_blank">
+<img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt ="A stunning tropical beach with clear blue water">
+</a>
+<figcaption>Relax on pristine beaches with our exclusive vacation packages.</figcaption>
+</figure>
+<figure>
+  <a href ="https://www.freecodecamp.org/learn" target ="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="A group hiking through the mountains">
+</a>
+  <figcaption>Experience thrilling adventures and breathtaking landscapes.</figcaption>
+  </figure>
+  <figure>
+    <a href ="https://www.freecodecamp.org/learn" target ="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt ="A vibrant city skyline at night">
+    </a>
+    <figcaption>Explore the world’s most exciting cities with guided tours.</figcaption>
+    </figure>
+
+</body>
+</html>
